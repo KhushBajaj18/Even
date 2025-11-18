@@ -1,0 +1,16 @@
+{
+  "event_id": "649b1b15-5d85-4167-aa2a-d036ffdac0c7",
+  "customer_id": "CUST_002",
+  "source": "grievance",
+  "source_id": "grv_5001",
+  "timestamp": "2025-11-11T11:00:00Z",
+  "raw_text": "Cashless denied Hospital refused to accept cashless approval, asked for payment of INR 15000.",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.787403Z",
+  "language": null,
+  "redacted_text": "Cashless denied Hospital refused to accept cashless approval, asked for payment of INR 15000.",
+  "processed_at": null,
+  "metadata": {
+    "status": "open"
+  }
+}

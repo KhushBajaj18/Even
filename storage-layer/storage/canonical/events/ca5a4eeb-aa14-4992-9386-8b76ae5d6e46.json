@@ -1,0 +1,17 @@
+{
+  "event_id": "ca5a4eeb-aa14-4992-9386-8b76ae5d6e46",
+  "customer_id": "CUST_001",
+  "source": "call",
+  "source_id": "call_3001",
+  "timestamp": "2025-11-12T12:00:00Z",
+  "raw_text": null,
+  "raw_blob_url": "s3://placeholder/call_3001.mp3",
+  "ingested_at": "2025-11-16T23:23:06.711659Z",
+  "language": null,
+  "redacted_text": null,
+  "processed_at": null,
+  "metadata": {
+    "call_duration_sec": 420,
+    "audio_url": "s3://placeholder/call_3001.mp3"
+  }
+}

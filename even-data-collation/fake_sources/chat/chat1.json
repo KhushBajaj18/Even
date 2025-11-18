@@ -1,0 +1,8 @@
+{
+  "conversation_id": "chat_1001",
+  "source": "chat",
+  "customer": {"customer_id": "CUST_001", "email": "alice@example.com"},
+  "agent_id": "agent_7",
+  "message": "My claim was denied yesterday at Apollo Hospital. Please help! Call me at 9876543210",
+  "timestamp": "2025-11-14T09:00:00Z"
+}

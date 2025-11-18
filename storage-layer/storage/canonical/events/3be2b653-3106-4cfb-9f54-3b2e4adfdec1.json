@@ -1,0 +1,16 @@
+{
+  "event_id": "3be2b653-3106-4cfb-9f54-3b2e4adfdec1",
+  "customer_id": "CUST_002",
+  "source": "email",
+  "source_id": "email_2001",
+  "timestamp": "2025-11-13T15:10:00Z",
+  "raw_text": "Denied claim - who to contact? I submitted a claim but it was denied without reason. Please advise. Regards, Bob",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.680993Z",
+  "language": null,
+  "redacted_text": "Denied claim - who to contact? I submitted a claim but it was denied without reason. Please advise. Regards, Bob",
+  "processed_at": null,
+  "metadata": {
+    "from": "bob@example.com"
+  }
+}

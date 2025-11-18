@@ -1,0 +1,9 @@
+{
+  "ticket_id": "grv_5002",
+  "source": "grievance",
+  "customer_id": "CUST_007",
+  "title": "Claim processing delay",
+  "details": "Claim not processed for 60 days. Request update.",
+  "status": "open",
+  "timestamp": "2025-11-12T13:45:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "email_id": "email_2001",
+  "source": "email",
+  "customer_id": "CUST_002",
+  "from": "bob@example.com",
+  "subject": "Denied claim - who to contact?",
+  "body_html": "<p>I submitted a claim but it was denied without reason. Please advise.</p><p>Regards, Bob</p>",
+  "timestamp": "2025-11-13T15:10:00Z"
+}

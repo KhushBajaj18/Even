@@ -1,0 +1,9 @@
+{
+  "ticket_id": "grv_5001",
+  "source": "grievance",
+  "customer_id": "CUST_002",
+  "title": "Cashless denied",
+  "details": "Hospital refused to accept cashless approval, asked for payment of INR 15000.",
+  "status": "open",
+  "timestamp": "2025-11-11T11:00:00Z"
+}

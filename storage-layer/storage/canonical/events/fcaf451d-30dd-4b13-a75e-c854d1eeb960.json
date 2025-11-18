@@ -1,0 +1,16 @@
+{
+  "event_id": "fcaf451d-30dd-4b13-a75e-c854d1eeb960",
+  "customer_id": "CUST_001",
+  "source": "chat",
+  "source_id": "chat_1001",
+  "timestamp": "2025-11-14T09:00:00Z",
+  "raw_text": "My claim was denied yesterday at Apollo Hospital. Please help! Call me at 9876543210",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.396318Z",
+  "language": null,
+  "redacted_text": "My claim was denied yesterday at Apollo Hospital. Please help! Call me at [REDACTED_PHONE]",
+  "processed_at": null,
+  "metadata": {
+    "agent_id": "agent_7"
+  }
+}

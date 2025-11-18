@@ -1,0 +1,16 @@
+{
+  "event_id": "d0eeeb21-6d67-42a7-9512-edbd94099ed0",
+  "customer_id": "CUST_005",
+  "source": "chat",
+  "source_id": "chat_1003",
+  "timestamp": "2025-11-16T11:20:00Z",
+  "raw_text": "Very Bad app",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.655961Z",
+  "language": null,
+  "redacted_text": "Very Bad app",
+  "processed_at": null,
+  "metadata": {
+    "agent_id": "agent_11"
+  }
+}

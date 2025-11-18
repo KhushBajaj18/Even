@@ -1,0 +1,16 @@
+{
+  "event_id": "a29e4e12-3860-4f32-8d2e-169e694684fe",
+  "customer_id": "CUST_005",
+  "source": "email",
+  "source_id": "email_2002",
+  "timestamp": "2025-11-10T10:05:00Z",
+  "raw_text": "Reimbursement delay It's been 45 days since I filed reimbursement. My claim id: CLM-9988",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.669590Z",
+  "language": null,
+  "redacted_text": "Reimbursement delay It's been 45 days since I filed reimbursement. My claim id: [REDACTED_ID]",
+  "processed_at": null,
+  "metadata": {
+    "from": "meena@domain.com"
+  }
+}

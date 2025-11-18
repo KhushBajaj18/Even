@@ -1,0 +1,16 @@
+{
+  "event_id": "60175ea8-5ffc-4e2f-8593-8e02ddf675b0",
+  "customer_id": "CUST_002",
+  "source": "csat",
+  "source_id": "csat_4002",
+  "timestamp": "2025-11-17T07:25:00Z",
+  "raw_text": "Great teleconsultation, doctor was helpful.",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.723882Z",
+  "language": null,
+  "redacted_text": "Great teleconsultation, doctor was helpful.",
+  "processed_at": null,
+  "metadata": {
+    "score": 5
+  }
+}

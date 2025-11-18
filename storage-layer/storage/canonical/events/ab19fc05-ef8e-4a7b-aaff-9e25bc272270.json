@@ -1,0 +1,16 @@
+{
+  "event_id": "ab19fc05-ef8e-4a7b-aaff-9e25bc272270",
+  "customer_id": "CUST_003",
+  "source": "csat",
+  "source_id": "csat_4001",
+  "timestamp": "2025-11-10T08:30:00Z",
+  "raw_text": "Waiting time too long at the hospital. Nurse rude.",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.747208Z",
+  "language": null,
+  "redacted_text": "Waiting time too long at the hospital. Nurse rude.",
+  "processed_at": null,
+  "metadata": {
+    "score": 2
+  }
+}

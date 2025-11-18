@@ -1,0 +1,9 @@
+{
+  "email_id": "email_2002",
+  "source": "email",
+  "customer_id": "CUST_005",
+  "from": "meena@domain.com",
+  "subject": "Reimbursement delay",
+  "body_html": "<div>It's been 45 days since I filed reimbursement. My claim id: CLM-9988</div>",
+  "timestamp": "2025-11-10T10:05:00Z"
+}

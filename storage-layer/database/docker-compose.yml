@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15
+    container_name: even_pg
+    environment:
+      POSTGRES_USER: even_user
+      POSTGRES_PASSWORD: even_pass
+      POSTGRES_DB: even_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - even_pg_data:/var/lib/postgresql/data
+    networks:
+      - even-net
+
+volumes:
+  even_pg_data:
+
+networks:
+  even-net:
+    driver: bridge

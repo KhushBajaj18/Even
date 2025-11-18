@@ -1,0 +1,8 @@
+{
+  "conversation_id": "chat_1003",
+  "source": "chat",
+  "customer": {"customer_id": "CUST_005", "email": "ravitt@test.com"},
+  "agent_id": "agent_11",
+  "message": "Very Bad app ",
+  "timestamp": "2025-11-16T11:20:00Z"
+}

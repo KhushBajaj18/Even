@@ -1,0 +1,16 @@
+{
+  "event_id": "39b27be8-479e-4185-b5a9-cb8e1de5f5dc",
+  "customer_id": "CUST_007",
+  "source": "grievance",
+  "source_id": "grv_5002",
+  "timestamp": "2025-11-12T13:45:00Z",
+  "raw_text": "Claim processing delay Claim not processed for 60 days. Request update.",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.775474Z",
+  "language": null,
+  "redacted_text": "Claim processing delay Claim not processed for 60 days. Request update.",
+  "processed_at": null,
+  "metadata": {
+    "status": "open"
+  }
+}

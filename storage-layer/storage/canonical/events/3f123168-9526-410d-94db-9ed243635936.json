@@ -1,0 +1,16 @@
+{
+  "event_id": "3f123168-9526-410d-94db-9ed243635936",
+  "customer_id": "CUST_004",
+  "source": "chat",
+  "source_id": "chat_1002",
+  "timestamp": "2025-11-16T11:20:00Z",
+  "raw_text": "App keeps crashing when I try to upload bill images. Very frustrating.",
+  "raw_blob_url": null,
+  "ingested_at": "2025-11-16T23:23:06.639905Z",
+  "language": null,
+  "redacted_text": "App keeps crashing when I try to upload bill images. Very frustrating.",
+  "processed_at": null,
+  "metadata": {
+    "agent_id": "agent_12"
+  }
+}

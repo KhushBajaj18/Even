@@ -1,0 +1,9 @@
+{
+  "call_id": "call_3001",
+  "source": "call",
+  "customer_id": "CUST_001",
+  "audio_url": "s3://placeholder/call_3001.mp3",
+  "transcript": null,
+  "timestamp": "2025-11-12T12:00:00Z",
+  "call_duration_sec": 420
+}
